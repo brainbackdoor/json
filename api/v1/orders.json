@@ -1,0 +1,26 @@
+[
+    {
+      "id": "1",
+      "address": "서울특별시 강남구 신사동 545-6",
+      "detail_address": "1층",
+      "lat": "37.5210182",
+      "lng": "127.02301775",
+      "customer_id": "895468533",
+      "restaurant_id": "1253161",
+      "restaurant_name": "뚜레쥬르-강남대로점",
+      "items": [
+        {
+          "item_id": "887783178",
+          "item_name": "BLT콥샐러드",
+          "item_price": 8900,
+          "item_quantity": "1"
+        },
+        {
+          "item_id": "888020842",
+          "item_name": "쉬림프 에그 샐러드",
+          "item_price": 10900,
+          "item_quantity": "1"
+        }
+      ]
+    }
+  ]
