@@ -4,8 +4,7 @@
       "address": "서울특별시 강남구 신사동 545-6",
       "detail_address": "1층",
       "lat": "37.5210182",
-      "lng": "127.02301775",
-      "customer_id": "895468533",
+      "lng": "127.02301775",    
       "restaurant_id": "1253161",
       "restaurant_name": "뚜레쥬르-강남대로점",
       "items": [
@@ -29,7 +28,6 @@
         "detail_address": "3층",
         "lat": "37.4909832",
         "lng": "127.03148576",
-        "customer_id": "895508037",
         "restaurant_id": "313591",
         "restaurant_name": "맥도날드-서초뱅뱅점",
         "items": [
